@@ -1,6 +1,6 @@
 # My Bio  
 
-Hello everyone. I am a PhD student at Fundação Getúlio Vargas [(FGV-EPGE)](https://epge.fgv.br/). My researh interests are mainly Urban Economics and Development.
+Hello everyone :relaxed:. I am a PhD student at Fundação Getúlio Vargas [(FGV-EPGE)](https://epge.fgv.br/). My researh interests are mainly Urban Economics and Development.
 
 ## Education
 
